@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alvesjoaopaulo
-- 👀 I’m interested in learning about data science
-- 🌱 I’m currently learning about python, R and SQL
-- 💞️ I’m looking to collaborate on with any concept around business and mechanical engeneering
+- 👀 I’m interested in learning about Data Science
+- 🌱 I’m currently learning about Python, R and SQL
 - 📫 How to reach me on my e-mail joao_alves_93@hotmail.com
 
 <!---
